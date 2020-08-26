@@ -1,5 +1,6 @@
 package SalesTax;
 
+
 public class ImportedTax implements Tax {
 
 	final double taxRate =  0.05;
